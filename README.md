@@ -4,7 +4,7 @@ Aprenda a programar páginas de internet e desenvolver websites utilizando HTML,
 
 
 O prazo para finalização do bootcamp é 27/08/2021.
-<a href="https://web.digitalinnovation.one/track/html-web-developer?tab=path">Digital Inovation One</>
+<a href="https://web.digitalinnovation.one/track/html-web-developer?tab=path">Digital Inovation One</a>
 
   
 ## Conteúdo do Curso
