@@ -40,8 +40,8 @@
      - [x] 2 / 3 - Multiplicação Simples
      - [x] 3 / 3 - Folha de Pagamento
 11. - [ ] Recriando a Interface do Netflix | | <a href="#"> Certificado </a> 
-     - [ ] Parte 01
-     - [ ] Parte 02
+     - [x] Parte 01
+     - [x] Parte 02
      - [ ] Parte 03
      - [ ] Parte 04
      - [ ] Parte 05
