@@ -39,7 +39,7 @@
      - [x] 1 / 3 - Visita na Feira
      - [x] 2 / 3 - Multiplicação Simples
      - [x] 3 / 3 - Folha de Pagamento
-11. - [x] Recriando a Interface do Netflix | | <a href="https://certificates.digitalinnovation.one/C76A589D"> Certificado </a> 
+11. - [x] Recriando a Interface do Netflix | | <a href="https://certificates.digitalinnovation.one/BD258302"> Certificado </a> 
      - [x] Parte 01
      - [x] Parte 02
      - [x] Parte 03
@@ -50,6 +50,12 @@
      - [x] Parte 08
      - [x] Parte 09
      - [x] <a href="https://github.com/marcossouz/HTML-Web-Developer/tree/main/netflix-clone"> Entrega do projeto </a>
-12. - [ ] Construindo páginas para internet com Bootstrap
-13. - [ ] Fundamentos Aritméticos em JavaScript
-14. - [ ] Recriando o jogo da cobrinha com JavaScript
+12. - [x] Construindo páginas para internet com Bootstrap | | <a href="https://certificates.digitalinnovation.one/C76A589D"> Certificado </a> 
+     - [x] Introdução ao Bootstrap
+     - [x] Aprenda a utilizar o Bootstrap na sua página WEB
+     - [x] Crie containers personalizados para o seu site
+     - [x] Trabalhando com imagens dentro de containers
+     - [x] Crie lista de navegação com imagens em seu projeto
+     - [x] Crie lista de navegação dentro de containers utilizando imagens
+14. - [ ] Fundamentos Aritméticos em JavaScript
+15. - [ ] Recriando o jogo da cobrinha com JavaScript
