@@ -1,5 +1,7 @@
 # HTML-Web-Developer
 
+<a href="https://web.digitalinnovation.one/track/html-web-developer?tab=path">Digital Inovation One</a>
+
 ## Conteúdo do Curso
   
 1. - [x] Bem-vindo à DIO | <a href="https://certificates.digitalinnovation.one/FC383395">Certificado</a> (Aproveitamento de estudos)
@@ -30,11 +32,14 @@
      - [x] Parte 04
      - [x] Objetivo do projeto
      - [x] <a href="https://github.com/marcossouz/HTML-Web-Developer/tree/main/instagram"> Entrega do projeto </a>
-6. - [ ] Programação para internet com JavaScript
-7. - [ ] Introdução a Programação com JavaScript
-8. - [ ] Recriando a Interface do Netflix
-9. - [ ] Construindo páginas para internet com Bootstrap
-10. - [ ] Fundamentos Aritméticos em JavaScript
-11. - [ ] Recriando o jogo da cobrinha com JavaScript
-
-<a href="https://web.digitalinnovation.one/track/html-web-developer?tab=path">Digital Inovation One</a>
+6. - [x] Programação para internet com JavaScript | | <a href="https://certificates.digitalinnovation.one/B5378D82"> Certificado </a> 
+     - [x] Introdução ao JavaScript
+     - [x] Desenvolva páginas web com JavaScript
+9. - [ ] Introdução a Programação com JavaScript (Desafios)
+     - [ ] 1 / 3 - Visita na Feira
+     - [ ] 2 / 3 -
+     - [ ] 3 / 3 -
+11. - [ ] Recriando a Interface do Netflix
+12. - [ ] Construindo páginas para internet com Bootstrap
+13. - [ ] Fundamentos Aritméticos em JavaScript
+14. - [ ] Recriando o jogo da cobrinha com JavaScript
