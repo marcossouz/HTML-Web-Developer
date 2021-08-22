@@ -29,7 +29,7 @@
      - [x] Parte 03
      - [x] Parte 04
      - [x] Objetivo do projeto
-     - [x] Entrega do projeto
+     - [x] <a href="https://github.com/marcossouz/HTML-Web-Developer/tree/main/instagram"> Entrega do projeto </a>
 6. - [ ] Programação para internet com JavaScript
 7. - [ ] Introdução a Programação com JavaScript
 8. - [ ] Recriando a Interface do Netflix
