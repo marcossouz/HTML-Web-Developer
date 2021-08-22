@@ -35,10 +35,10 @@
 6. - [x] Programação para internet com JavaScript | | <a href="https://certificates.digitalinnovation.one/B5378D82"> Certificado </a> 
      - [x] Introdução ao JavaScript
      - [x] Desenvolva páginas web com JavaScript
-9. - [ ] Introdução a Programação com JavaScript (Desafios)
-     - [ ] 1 / 3 - Visita na Feira
-     - [ ] 2 / 3 -
-     - [ ] 3 / 3 -
+9. - [x] Introdução a Programação com JavaScript (Desafios)
+     - [x] 1 / 3 - Visita na Feira
+     - [x] 2 / 3 - Multiplicação Simples
+     - [x] 3 / 3 - Folha de Pagamento
 11. - [ ] Recriando a Interface do Netflix
 12. - [ ] Construindo páginas para internet com Bootstrap
 13. - [ ] Fundamentos Aritméticos em JavaScript
