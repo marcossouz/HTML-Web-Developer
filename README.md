@@ -39,17 +39,17 @@
      - [x] 1 / 3 - Visita na Feira
      - [x] 2 / 3 - Multiplicação Simples
      - [x] 3 / 3 - Folha de Pagamento
-11. - [ ] Recriando a Interface do Netflix | | <a href="#"> Certificado </a> 
+11. - [x] Recriando a Interface do Netflix | | <a href="https://certificates.digitalinnovation.one/C76A589D"> Certificado </a> 
      - [x] Parte 01
      - [x] Parte 02
-     - [ ] Parte 03
-     - [ ] Parte 04
-     - [ ] Parte 05
-     - [ ] Parte 06
-     - [ ] Parte 07
-     - [ ] Parte 08
-     - [ ] Parte 09
-     - [ ] <a href="https://github.com/marcossouz/HTML-Web-Developer/tree/main/netflix-clone"> Entrega do projeto </a>
+     - [x] Parte 03
+     - [x] Parte 04
+     - [x] Parte 05
+     - [x] Parte 06
+     - [x] Parte 07
+     - [x] Parte 08
+     - [x] Parte 09
+     - [x] <a href="https://github.com/marcossouz/HTML-Web-Developer/tree/main/netflix-clone"> Entrega do projeto </a>
 12. - [ ] Construindo páginas para internet com Bootstrap
 13. - [ ] Fundamentos Aritméticos em JavaScript
 14. - [ ] Recriando o jogo da cobrinha com JavaScript
