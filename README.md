@@ -23,7 +23,7 @@
      - [x]  Introdução e conceitos básicos do CSS3
      - [x]  Estilizando elementos, textos e listas
      - [x]  Dimensão e alinhamento
-5. - [x] Recriando a página inicial do Instagram
+5. - [x] Recriando a página inicial do Instagram | | <a href="https://certificates.digitalinnovation.one/F23C996B"> Certificado </a> 
      - [x] Parte 01
      - [x] Parte 02
      - [x] Parte 03
