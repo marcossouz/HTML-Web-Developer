@@ -4,8 +4,8 @@
   
 1. - [x] Bem-vindo à DIO | <a href="https://certificates.digitalinnovation.one/FC383395">Certificado</a> (Aproveitamento de estudos)
 2. - [x] Lógica de Programação Essencial | <a href="https://certificates.digitalinnovation.one/E652CC53">Certificado</a> (AProveitamento de estudos)
-  - [x] Introdução à lógica e à programação
-  - [x] Introdução ao Portugol
+     - [x] Introdução à lógica e à programação
+     - [x] Introdução ao Portugol
 3. - [x] Introdução ao Git e ao GitHub | | <a href="https://certificates.digitalinnovation.one/FDDB10F1">Certificado</a> (AProveitamento de estudos)
   - [x] Introdução ao Git
   - [x] Navegação via command line interface e instalação
