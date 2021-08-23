@@ -63,4 +63,11 @@
      - [x] 3 / 5 - Análise de Números
      - [x] 4 / 5 - Contagem de Cédulas
      - [x] 5 / 5 - Consumo Médio do Automóvel
-16. - [ ] Recriando o jogo da cobrinha com JavaScript
+16. - [x] Recriando o jogo da cobrinha com JavaScript | | <a href="https://certificates.digitalinnovation.one/EE69F78B"> Certificado </a> 
+     - [x] Parte 01
+     - [x] Parte 02
+     - [x] Parte 03
+     - [x] Parte 04
+     - [x] Parte 05
+     - [x] Parte 06
+     - [x] <a href="https://github.com/marcossouz/HTML-Web-Developer/tree/main/snake-the-game">Entrega do projeto </a>
