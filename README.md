@@ -57,5 +57,10 @@
      - [x] Trabalhando com imagens dentro de containers
      - [x] Crie lista de navegação com imagens em seu projeto
      - [x] Crie lista de navegação dentro de containers utilizando imagens
-14. - [ ] Fundamentos Aritméticos em JavaScript
-15. - [ ] Recriando o jogo da cobrinha com JavaScript
+14. - [x] Fundamentos Aritméticos em JavaScript
+     - [x] 1 / 5 - Quantidade de Números Positivos
+     - [x] 2 / 5 - Exibindo Números Pares
+     - [x] 3 / 5 - Análise de Números
+     - [x] 4 / 5 - Contagem de Cédulas
+     - [x] 5 / 5 - Consumo Médio do Automóvel
+16. - [ ] Recriando o jogo da cobrinha com JavaScript
